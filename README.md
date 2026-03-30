@@ -29,7 +29,7 @@ Extracción de conclusiones
 
 Relación entre tiempo de uso y niveles de estrés/ansiedad no es contundente. Si en cambio afecta a la productividad.
 
-## 🚀 Conclusiones
+## 🚀Conclusiones
 
 Los dos modelos de Random Forest ofrecen resultados coherentes con el planteamiento del proyecto. El primer modelo, que trabaja con los valores originales de estrés, presenta un rendimiento cercano al 50 %, similar a una predicción aleatoria, lo que refleja la complejidad del fenómeno analizado y la ausencia de relaciones claras entre las variables.
 
